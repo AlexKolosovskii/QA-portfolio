@@ -14,5 +14,5 @@
 ## Примеры
 - [Система бронирования отеля](test-design/hotel-booking-case.md)
 - [Заказ пиццы](test-design/pizza-order-case.md)
-- [Форма входа](test-design/login-form-case.md)
+- [Форма входа](test-design/atm-authentication-case.md)
 - [Управление доступом к функциям](test-design/access-control-case.md)
